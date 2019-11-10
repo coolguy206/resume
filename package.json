@@ -1,0 +1,30 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-includes": "^1.1.0",
+    "html-pdf": "^2.2.0",
+    "load-grunt-config": "^3.0.1",
+    "load-grunt-tasks": "^5.1.0",
+    "pdf2html": "^2.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolguy206/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolguy206/resume/issues"
+  },
+  "homepage": "https://github.com/coolguy206/resume#readme"
+}
