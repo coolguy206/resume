@@ -1,9 +1,33 @@
+body {
+  font-size: 100%;
+  line-height: 150%;
+}
+
 .resume {
   max-width: 1400px;
   margin: 0 auto;
   font-family: 'Montserrat', sans-serif;
 
-  h1 {
-    color: red;
+  ul {
+    li {
+      margin: 0 0 10px;
+    }
+  }
+
+  .column-2 {
+    display: flex;
+    flex-wrap: wrap;
+
+    div {
+      flex-basis: 50%;
+    }
+  }
+
+  .work-experience {
+    div {
+      article {
+        min-height: 300px;
+      }
+    }
   }
 }
