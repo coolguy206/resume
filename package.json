@@ -9,7 +9,7 @@
     "grunt-contrib-less": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-includes": "^1.1.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "load-grunt-config": "^3.0.1",
     "load-grunt-tasks": "^5.1.0",
     "pdf2html": "^2.5.0"
