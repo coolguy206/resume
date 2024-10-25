@@ -1,10 +1,5 @@
 const pdf2html = require('pdf2html')
-
-
 const fs = require('fs');
-
-
-
 
 pdf2html.html('pdf/source/David-Thanphilom-FED-resume.pdf', (err, html) => {
   if (err) {
